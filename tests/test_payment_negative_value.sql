@@ -1,0 +1,1 @@
+{{ config(store_failures = true) }}
